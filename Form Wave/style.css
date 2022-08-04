@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: steelblue;
+  background-color: rgb(8, 120, 70);
   color: #fff;
   font-family: 'Muli', sans-serif;
   display: flex;
@@ -30,14 +30,14 @@ body {
 
 .container a {
   text-decoration: none;
-  color: lightblue;
+  color: rgb(173, 230, 175);
 }
 
 .btn {
   cursor: pointer;
   display: inline-block;
   width: 100%;
-  background: lightblue;
+  background: rgb(173, 230, 190);
   padding: 15px;
   font-family: inherit;
   font-size: 16px;
